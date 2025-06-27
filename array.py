@@ -53,7 +53,7 @@ while True:
         print("sort by ascending order : " , sorted_arr)
 
     elif choice == 4:
-        sorted_arr = sorted(arr , reverse = True )
+        sorted_arr = sorted(arr , rbbbbbbbbbbbeverse = True )
         print("sort by descending order : " , sorted_arr)
 
     elif choice == 5:
