@@ -40,7 +40,7 @@ while True:
     print("7. Insert Element")
     print("8. Exit")
 
-    choice = int(input("Enter you choice ; "))
+    choice = int(input("Enter you choice : "))
 
     if choice == 1:
         print("Array : " , arr)
